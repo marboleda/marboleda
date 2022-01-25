@@ -5,6 +5,7 @@ My name is Marco and I'm a full-stack developer. I mainly work with React and Ja
 ## Skills and Experience
 * React
 * Java
+* TypeScript
 * HTML, CSS, JavaScript
 * Shopify Themes, Liquid
 
