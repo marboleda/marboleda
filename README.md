@@ -1,10 +1,6 @@
 ### Welcome to my GitHub profile!
 
-My name is Marco and I'm a full-stack developer.
-
-- 🔭 I currently work for an insurance software company doing development work for a [benefits plan modeling application](https://www1.appliedsystems.com/en-us/solutions/for-agents/benefits/applied-benefits-designer/)
-- 🌱 I’m currently learning about e-commerce and developing websites for that industry
-- ⚡ I mainly work with React, TypeScript, and Java. But I'm always learning new things!
+My name is Marco and I'm a full-stack developer
 
 ## Skills and Experience
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
