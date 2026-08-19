@@ -1,4 +1,4 @@
-Hey there! I’m Marco and I’m a tech professional with over 7 years of industry experience (4 years as a software engineer, 3+ years in a data migration role).
+Hello! I’m Marco and I’m a tech professional with over 7 years of industry experience (4 years as a software engineer, 3+ years in a data migration role).
 
 My experience encompasses:
 - API development (RESTful and gRPC)
