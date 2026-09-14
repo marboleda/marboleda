@@ -13,4 +13,4 @@ My experience encompasses:
 
 I’m currently looking for my next role, so feel free to contact me if you’re interested in how I can contribute to your team!
 
-Interests: 📊 Data, 👨🏽‍💻 Software Engineering, 🤖 AI
+Interests: 📊 Data, 🤖 AI-assisted Development, 💬 LLM Application Development
