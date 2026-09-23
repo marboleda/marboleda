@@ -11,6 +11,4 @@ My experience encompasses:
 - ETL
 - SQL Databases (PostgreSQL, Microsoft SQL Server)
 
-I’m currently looking for my next role, so feel free to contact me if you’re interested in how I can contribute to your team!
-
-Interests: 📊 Data, 🤖 AI-assisted Development, 💬 LLM Application Development
+If you'd like to see some data pipelines I have developed, feel free to scroll down and check out the Pinned projects. 
