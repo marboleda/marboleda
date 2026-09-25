@@ -10,5 +10,3 @@ My experience encompasses:
 - Front-end development with React
 - Back-end development with Java and Go
 - Microservices and Monolithic Architecture
-
-If you'd like to see some data pipelines I have developed, feel free to check out my Pinned projects. 
