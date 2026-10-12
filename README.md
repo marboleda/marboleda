@@ -1,4 +1,4 @@
-Hello! I’m Marco and I’m a tech professional with over 7 years of industry experience (4 years as a software engineer, 3+ years in a data migration role).
+Hello! I’m Marco and I’m a tech professional with over 7 years of industry experience (4 years as a software engineer, 3+ years in a data migration role, both at [Applied Systems](https://www1.appliedsystems.com)).
 
 My experience encompasses:
 - SQL Databases (PostgreSQL, Microsoft SQL Server)
@@ -10,3 +10,5 @@ My experience encompasses:
 - Front-end development with React
 - Back-end development with Java and Go
 - Microservices and Monolithic Architecture
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marco-arboleda)
