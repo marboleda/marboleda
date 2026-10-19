@@ -11,7 +11,7 @@ My experience encompasses:
 - Integration development
 - Front-end development with **React**
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marco-arboleda)
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marco-arboleda)!
 
 ### Open Source Contributions
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:marboleda+is:pr+is:merged&type=pullrequests)
